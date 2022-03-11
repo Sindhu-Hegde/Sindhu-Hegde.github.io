@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: Feb 2022 
 inline: true
 ---
 
-A simple inline announcement.
+Participated in [Research Week with Google](https://sites.google.com/view/researchweek2022). Got a chance to interact with amazing researchers all over the world!  
