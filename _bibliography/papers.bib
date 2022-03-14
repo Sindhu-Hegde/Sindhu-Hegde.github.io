@@ -9,7 +9,10 @@
     title     = {Audio-Visual Speech Super-Resolution},
     booktitle = {British Machine Vision Conference (BMVC)},
     year      = {2021},
-    selected={true}
+    selected={true},
+    pdf={https://www.bmvc2021-virtualconference.com/assets/papers/0930.pdf},
+    website={http://cvit.iiit.ac.in/research/projects/cvit-projects/audio-visual-speech-super-resolution},
+    abstract={In this paper, we present an audio-visual model to perform speech super-resolution at large scale-factors (8x and 16x). Previous works attempted to solve this problem using only the audio modality as input, and thus were limited to low scale-factors of 2x and 4x. In contrast, we propose to incorporate both visual and auditory signals to super-resolve speech of sampling rates as low as 1kHz. In such challenging situations, the visual features assist in learning the content, and improves the quality of the generated speech. Further, we demonstrate the applicability of our approach to arbitrary speech signals where the visual stream is not accessible. Our “pseudo-visual network” precisely synthesizes the visual stream solely from the low-resolution speech input. Extensive experiments illustrate our method’s remarkable results and benefits over state-of-the-art audio-only speech super-resolution approaches.}
 }
 
 
@@ -20,7 +23,11 @@
     booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
     year      = {2021},
     pages     = {1926-1935},
-    selected={true}
+    selected={true},
+    pdf={https://openaccess.thecvf.com/content/WACV2021/papers/Hegde_Visual_Speech_Enhancement_Without_a_Real_Visual_Stream_WACV_2021_paper.pdf},
+    website={http://cvit.iiit.ac.in/research/projects/cvit-projects/visual-speech-enhancement-without-a-real-visual-stream},
+    code={https://github.com/Sindhu-Hegde/pseudo-visual-speech-denoising},
+    abstract={In this work, we re-think the task of speech enhancement in unconstrained real-world environments. Current state-of-the-art methods use only the audio stream and are limited in their performance in a wide range of real-world noises. Recent works using lip movements as additional cues improve the quality of generated speech over "audio-only" methods. But, these methods cannot be used for several applications where the visual stream is unreliable or completely absent. We propose a new paradigm for speech enhancement by exploiting recent breakthroughs in speech-driven lip synthesis. Using one such model as a teacher network, we train a robust student network to produce accurate lip movements that mask away the noise, thus acting as a "visual noise filter". The intelligibility of the speech enhanced by our pseudo-lip approach is comparable (< 3% difference) to the case of using real lips. This implies that we can exploit the advantages of using lip movements even in the absence of a real video stream. We rigorously evaluate our model using quantitative metrics as well as human evaluations. Additional ablation studies and a demo video on our website containing qualitative comparisons and results clearly illustrate the effectiveness of our approach.}
 }
 
 
@@ -30,6 +37,10 @@
     title     = {Towards Automatic Speech to Sign Language Generation},
     booktitle = {Interspeech},
     year      = {2021},
+    pdf={https://arxiv.org/pdf/2106.12790.pdf},
+    website={http://cvit.iiit.ac.in/research/projects/cvit-projects/towards-speech-to-sign-language-generation},
+    code={https://github.com/kapoorparul/Towards-Automatic-Speech-to-SL},
+    abstract={We aim to solve the highly challenging task of generating continuous sign language videos solely from speech segments for the first time. Recent efforts in this space have focused on gen- erating such videos from human-annotated text transcripts without considering other modalities. However, replacing speech with sign language proves to be a practical solution while communicating with people suffering from hearing loss. Therefore, we eliminate the need of using text as input and design techniques that work for more natural, continuous, freely uttered speech covering an extensive vocabulary. Since the current datasets are inadequate for generating sign language directly from speech, we collect and release the first Indian sign language dataset comprising speech-level annotations, text transcripts, and the corresponding sign-language videos. Next, we propose a multi-tasking transformer network trained to generate signer's poses from speech segments. With speech-to-text as an auxiliary task and an additional cross-modal discriminator, our model learns to generate continuous sign pose sequences in an end-to-end manner. Extensive experiments and comparisons with other baselines demonstrate the effectiveness of our approach. We also conduct additional ablation studies to analyze the effect of different modules of our network.}
 }
 
 @article{PIGNet_2021_CG,
@@ -39,7 +50,9 @@
   journal={Comput. Graph.},
   year={2021},
   volume={95},
-  pages={13-22}
+  pages={13-22},
+  pdf={https://arxiv.org/pdf/2101.11987.pdf},
+  abstract={Point clouds, being the simple and compact representation of surface geometry of 3D objects, have gained increasing popularity with the evolution of deep learning networks for classification and segmentation tasks. Unlike human, teaching the machine to analyze the segments of an object is a challenging task and quite essential in various machine vision applications. In this paper, we address the problem of segmentation and labelling of the 3D point clouds by proposing a inception based deep network architecture called PIG-Net, that effectively characterizes the local and global geometric details of the point clouds. In PIG-Net, the local features are extracted from the transformed input points using the proposed inception layers and then aligned by feature transform. These local features are aggregated using the global average pooling layer to obtain the global features. Finally, feed the concatenated local and global features to the convolution layers for segmenting the 3D point clouds. We perform an exhaus- tive experimental analysis of the PIG-Net architecture on two state-of-the-art datasets, namely, ShapeNet [1] and PartNet [2]. We evaluate the effectiveness of our network by performing ablation study.}
 }
 
 @InProceedings{FakeRev_2021_ACN,
@@ -49,7 +62,9 @@
   booktitle={Advances in Computing and Network Communications},
   year={2021},
   publisher={Springer Singapore},
-  pages={259--269}
+  pages={259--269},
+  pdf={https://link.springer.com/chapter/10.1007/978-981-33-6987-0_22},
+  abstract={Opinion spam on online restaurant review sites are a major problem as the reviews influence the users' choice to visit or not to a restaurant. In this paper, we address the problem of detecting genuine and fake reviews in restaurant online reviews. We propose a fake review detection technique comprising data preprocessing, detection and ensemble learning that learns the reviews and their features to filter out the fake reviews. Initially, we preprocess to obtain the refined reviews and employ two independent classifiers using deep machine learning and feature-based machine learning techniques for detection. These classifiers tackle the problem in two aspects, i.e., the deep machine learning model learns the word distributions and the feature-based machine learning model extracts the relevant features from the reviews. Finally, a hybrid ensemble model from the two classifiers are built to detect the genuine and fake reviews. The experimental analysis of the proposed approach on Yelp datasets outperforms the existing state-of-the-art methods.}
 }
 
 @inproceedings{EncodingEval_2019_BMVC,
@@ -57,7 +72,9 @@
   title={An Evaluation of Feature Encoding Techniques for Non-Rigid and Rigid 3D Point Cloud Retrieval},
   author={Hegde, Sindhu and Gangisetty, Shankar},
   booktitle={BMVC},
-  year={2019}
+  year={2019},
+  pdf={https://bmvc2019.org/wp-content/uploads/papers/0932-paper.pdf},
+  abstract={In this paper, we address the 3D point cloud based retrieval problem for both non- rigid and rigid 3D data. As powerful computation resources and scanning devices have led to an exponential growth of 3D point cloud data, retrieving the relevant 3D objects from databases is a challenging task. The local descriptors provide only the abstract representations that do not enable the exploration of shape variability to solve the 3D object retrieval problem. Thus, it is not just the local descriptors but also the encoding of local signatures into global descriptors which is of crucial importance for enhancing the performance. To create a compact shape signature that constitutes the 3D object as a whole, various encoding techniques have been proposed in the literature. The most popular among them are bag-of-features [28], Fisher vector [20] and vector of locally aggregated descriptors [11]. However evaluating the different encoding techniques and analyzing the critical aspects to boost the performance of 3D point cloud retrieval is still an unsolved problem. We propose to provide an exhaustive evaluation of the different encoding techniques when combined with local feature descriptors for solving non-rigid and rigid point cloud retrieval task. We fix improved wave kernel signature and metric tensor & Christoffel symbols local descriptors specifically built for non-rigid and rigid data as given in [18] and [24] respectively. We also present a consistent comparative analysis of our method with the existing benchmarks, the results of which illustrate the robustness of the proposed approach on point cloud data.}
 }
 
 @inproceedings{PCDCat_2018_ICVGIP, 
@@ -70,6 +87,8 @@
   booktitle = {Proceedings of the 11th Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)}, 
   articleno = {60}, 
   numpages = {9}, 
+  pdf={},
+  abstract={}
 }
 
 @article{SentimentClass_2018_ICACCI,
@@ -78,7 +97,9 @@
   author={Hegde, Sindhu and Satyappanavar, Supriya and Gangisetty, Shankar},
   journal={International Conference on Advances in Computing, Communications and Informatics (ICACCI)},
   year={2018},
-  pages={1455-1462}
+  pages={1455-1462},
+  pdf={},
+  abstract={}
 }
 
 @article{RestaurantSetup_2017_ICACCI,
@@ -87,5 +108,7 @@
   author={Hegde, Sindhu and Satyappanavar, Supriya and Gangisetty, Shankar},
   journal={International Conference on Advances in Computing, Communications and Informatics (ICACCI)},
   year={2017},
-  pages={2342-2348}
+  pages={2342-2348},
+  pdf={},
+  abstract={}
 }
