@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Sindhu
 middle_name: B.
 last_name: Hegde
-email: sindhu.hegde@verisk.com
+email: sindhu.hegde@research.iiit.ac.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Webgape - Sindhu B Hegde.
+  Webgape - Sindhu B Hegde
 footer_text: >
   <c> <br> <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. </c>
 keywords:   # add your own keywords or leave empty
