@@ -1,8 +1,8 @@
 ---
 layout: post
-date: Aug 2021
+date: Nov 2021
 inline: true
 ---
 
-Organiser of [CVIT 5th AI Summer School 2021](https://cvit.iiit.ac.in/summerschool2021/) series. Moderated multiple sessions from eminent speakers and also conducted a tutorial on Self-Supervised Learning & Multi-modal learning.
-<br>[Slides](https://docs.google.com/presentation/d/1YAoy8iISkiuowsmBgpC2W5LQxbQzYwnB/edit?usp=sharing&ouid=108208070141440931374&rtpof=true&sd=true) | [Github](https://github.com/Sindhu-Hegde/speaker-separation)
+Presented our paper titled **Audio-Visual Speech Super-Resolution** (<span style="color:red">ORAL</span>) @ BMVC 2021!
+<br> [Video presentation](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0930.html) | [Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0930.pdf) | [Project page](http://cvit.iiit.ac.in/research/projects/cvit-projects/audio-visual-speech-super-resolution)

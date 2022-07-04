@@ -1,8 +1,7 @@
 ---
 layout: post
-date: Jan 2022
+date: Apr 2022
 inline: true
 ---
 
-Submitted **MS thesis** for review! :sparkles: :smile: 
-<br> More details coming soon...
+Promoted to **Lead Data Scientist** at <a href="https://www.verisk.com">Verisk Analytics</a>

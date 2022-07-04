@@ -11,6 +11,18 @@ title: News Archive
 </style>
 <table class="table table-sm table-borderless" >
 	<tr>
+	  <td style="width: 10%"><b>Jul 2022</b></td>
+	  <td> 
+	   2 papers accepted to <a href="https://2022.acmmm.org">ACM-MM 2022</a>!
+	  </td>
+	</tr>
+	<tr>
+	  <td style="width: 10%"><b>Apr 2022</b></td>
+	  <td> 
+	   Promoted to <b>Lead Data Scientist</b> at <a href="https://www.verisk.com">Verisk Analytics</a> 
+	  </td>
+	</tr>
+	<tr>
 	  <td style="width: 10%"><b>Feb 2022</b></td>
 	  <td> 
 	   Participated in <a href="https://sites.google.com/view/researchweek2022">Research Week with Google</a>. Got a chance to interact with amazing researchers all over the world!   
