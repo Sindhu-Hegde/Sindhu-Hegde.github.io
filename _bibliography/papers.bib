@@ -3,13 +3,38 @@
 
 @string{aps = {American Physical Society,}}
 
+@InProceedings{L2S_2022_ACMMM,
+  abbr={ACM-MM},
+  author={Hegde, Sindhu and Mukhopadhyay, Rudrabha and Namboodiri, Vinay P and Jawahar, CV},
+  title={Extreme-scale Talking-Face Video Upsampling with Audio-Visual Priors},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia (MM'22)},
+  year={2022},
+  selected={true},
+  pdf={https://arxiv.org/pdf/2208.08118.pdf},
+  website={http://cvit.iiit.ac.in/research/projects/cvit-projects/talking-face-video-upsampling},
+  code={https://github.com/Sindhu-Hegde/video-super-resolver},
+  abstract={In this paper, we explore an interesting question of what can be obtained from an 8×8 pixel video sequence. Surprisingly, it turns out to be quite a lot. We show that when we process this 8x8 video with the right set of audio and image priors, we can obtain a full-length, 256x256 video. We achieve this 32x scaling of an extremely low-resolution input using our novel audio-visual upsampling network. The audio prior helps to recover the elemental facial details and precise lip shapes, and a single high-resolution target identity image prior provides us with rich appearance details. Our approach is an end-to-end multi-stage framework. The first stage produces a coarse intermediate output video that can be then used to animate the single target identity image and generate realistic, accurate and high-quality outputs. Our approach is simple and performs exceedingly well (an 8× improvement in FID score) compared to previous super-resolution methods. We also extend our model to talking-face video compression, and show that we obtain a 3.5x improvement in terms of bits/pixel over the previous state-of-the-art. The results from our network are thoroughly analyzed through extensive ablation and comparative analysis and demonstration videos (in the paper and supplementary material).}
+}
+
+@InProceedings{L2S_2022_ACMMM,
+  abbr={ACM-MM},
+  author={Hegde, Sindhu and Prajwal, KR and Mukhopadhyay, Rudrabha and Namboodiri, Vinay P and Jawahar, CV},
+  title={Lip-to-Speech Synthesis for Arbitrary Speakers in the Wild},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia (MM'22)},
+  year={2022},
+  selected={true},
+  pdf={https://arxiv.org/pdf/2209.00642.pdf},
+  website={http://cvit.iiit.ac.in/research/projects/cvit-projects/lip-to-speech-synthesis},
+  code={https://github.com/Sindhu-Hegde/lip2speech},
+  abstract={In this work, we address the problem of generating speech from silent lip videos for any speaker in the wild. In stark contrast to previous works in lip-to-speech synthesis, our work (i) is not restricted to a fixed number of speakers, (ii) does not explicitly impose constraints on the domain or the vocabulary and (iii) deals with videos that are recorded in the wild as opposed to within laboratory settings. The task presents a host of challenges with the key one being that many features of the desired target speech like voice, pitch and linguistic content cannot be entirely inferred from the silent face video. In order to handle these stochastic variations, we propose a new VAE-GAN architecture that learns to associate the lip and speech sequences amidst the variations. With the help of multiple powerful discriminators that guide the training process, our generator learns to synthesize speech sequences in any voice for the lip movements of any person. Extensive experiments on multiple datasets show that we outperform all baseline methods by a large margin. Further, our network can be fine-tuned on videos of specific identities to achieve a performance comparable to single-speaker models that are trained on 4x more data. We also conduct numerous ablation studies to analyze the effect of different modules of our architecture. A demo video in supplementary material demonstrates several qualitative results and comparisons.}
+}
+
 @InProceedings{AVSR_2021_BMVC,
     abbr={BMVC},
     author    = {Mukhopadhyay, Rudrabha and Hegde, Sindhu and Namboodiri, Vinay P. and Jawahar, C.V.},
     title     = {Audio-Visual Speech Super-Resolution},
     booktitle = {British Machine Vision Conference (BMVC)},
     year      = {2021},
-    selected={true},
     pdf={https://www.bmvc2021-virtualconference.com/assets/papers/0930.pdf},
     website={http://cvit.iiit.ac.in/research/projects/cvit-projects/audio-visual-speech-super-resolution},
     abstract={In this paper, we present an audio-visual model to perform speech super-resolution at large scale-factors (8x and 16x). Previous works attempted to solve this problem using only the audio modality as input, and thus were limited to low scale-factors of 2x and 4x. In contrast, we propose to incorporate both visual and auditory signals to super-resolve speech of sampling rates as low as 1kHz. In such challenging situations, the visual features assist in learning the content, and improves the quality of the generated speech. Further, we demonstrate the applicability of our approach to arbitrary speech signals where the visual stream is not accessible. Our “pseudo-visual network” precisely synthesizes the visual stream solely from the low-resolution speech input. Extensive experiments illustrate our method’s remarkable results and benefits over state-of-the-art audio-only speech super-resolution approaches.}
@@ -23,7 +48,6 @@
     booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
     year      = {2021},
     pages     = {1926-1935},
-    selected={true},
     pdf={https://openaccess.thecvf.com/content/WACV2021/papers/Hegde_Visual_Speech_Enhancement_Without_a_Real_Visual_Stream_WACV_2021_paper.pdf},
     website={http://cvit.iiit.ac.in/research/projects/cvit-projects/visual-speech-enhancement-without-a-real-visual-stream},
     code={https://github.com/Sindhu-Hegde/pseudo-visual-speech-denoising},

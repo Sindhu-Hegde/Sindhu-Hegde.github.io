@@ -11,11 +11,25 @@ title: News Archive
 </style>
 <table class="table table-sm table-borderless" >
 	<tr>
+	  <td style="width: 10%"><b>Aug 2022</b></td>
+	  <td> 
+	   Accepted the <b>PhD offer</b> from <a href="https://www.ox.ac.uk">University of Oxford</a>! Excited to join the Visual Geometry Group (VGG), with <a href="https://scholar.google.com/citations?user=UZ5wscMAAAAJ&hl=en">Prof. Andrew Zisserman</a> from October 2022!
+	  </td>
+	</tr>
+	<tr>
 	  <td style="width: 10%"><b>Jul 2022</b></td>
 	  <td> 
 	   2 papers accepted to <a href="https://2022.acmmm.org">ACM-MM 2022</a>!
+	   <br> 1] <a href="https://arxiv.org/pdf/2208.08118.pdf">Talking-Face Video Upsampling</a>  2] <a href="https://arxiv.org/pdf/2209.00642.pdf">Lip-to-Speech Synthesis</a> 
 	  </td>
 	</tr>
+	<tr>
+	  <td style="width: 10%"><b>May 2022</b></td>
+	  <td> 
+	   Successfully defended MS thesis :smile: 
+	   <br> <b>Thesis:</b> <a href="https://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/1110">Exploiting Cross-Modal Redundancy for Audio-Visual Generation</a>
+	  </td>
+	</tr>	
 	<tr>
 	  <td style="width: 10%"><b>Apr 2022</b></td>
 	  <td> 

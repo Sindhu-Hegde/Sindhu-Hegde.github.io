@@ -1,7 +1,8 @@
 ---
 layout: post
-date: Feb 2022
+date: May 2022
 inline: true
 ---
 
-Participated in [Research Week with Google](https://sites.google.com/view/researchweek2022). Got a chance to interact with amazing researchers all over the world! 
+Successfully defended MS thesis :smile: 
+<br> **Thesis:** [Exploiting Cross-Modal Redundancy for Audio-Visual Generation](https://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/1110)
