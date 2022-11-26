@@ -16,7 +16,60 @@ horizontal: true
   <tr>
     <td style="width:25%;vertical-align:middle">
       <div class="one">
-        <img src='/assets/img/bmvc21_banner.png' width="320" height="120">
+        <img src='/assets/img/acm_videosr_banner.png' width="300" height="140">
+      </div>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+      <a href="https://dl.acm.org/doi/10.1145/3503161.3548080">
+        <papertitle><b>Extreme-scale Talking-Face Video Upsampling with Audio-Visual Priors</b></papertitle>
+      </a>
+      <br>
+      <strong>Sindhu B Hegde*</strong>,
+      Rudrabha Mukhopadhyay*,  
+      Vinay P Namboodiri,
+      C. V. Jawahar
+      <br>
+      <em>ACM-MM</em>, 2022 <span style="color:red"></span>
+      <br>
+      <a href="https://arxiv.org/pdf/2208.08118.pdf">arXiv</a> /
+      <a href="https://github.com/Sindhu-Hegde/video-super-resolver">code</a> /
+      <a href="http://cvit.iiit.ac.in/research/projects/cvit-projects/talking-face-video-upsampling">project page</a> 
+      <p></p>
+      <p>Super-resolve extremely low-resolution videos (eg., 8x8 pixels) to obtain realistic, high-resolution outputs (256x256 pixels). Upsampled the videos at a scale-factor of 32x for the first time!.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:25%;vertical-align:middle">
+      <div class="one">
+        <img src='/assets/img/acm_l2s_banner.png' width="320" height="120">
+      </div>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+      <a href="https://dl.acm.org/doi/10.1145/3503161.3548081">
+        <papertitle><b>Lip-to-Speech Synthesis for Arbitrary Speakers in the Wild</b></papertitle>
+      </a>
+      <br>
+      <strong>Sindhu B Hegde*</strong>,
+      K R Prajwal*,
+      Rudrabha Mukhopadhyay*,  
+      Vinay P Namboodiri,
+      C. V. Jawahar
+      <br>
+      <em>ACM-MM</em>, 2022 <span style="color:red"></span>
+      <br>
+      <a href="https://arxiv.org/pdf/2209.00642.pdf">arXiv</a> /
+      <a href="https://github.com/Sindhu-Hegde/lip2speech">code</a> /
+      <a href="http://cvit.iiit.ac.in/research/projects/cvit-projects/lip-to-speech-synthesis">project page</a> 
+      <p></p>
+      <p>Generates speech for silent talking face videos for any speaker in-the-wild! One of the first models to work for arbitrary speakers, with no explicit costraints in the domain or vocabulary.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:25%;vertical-align:middle">
+      <div class="one">
+        <img src='/assets/img/bmvc21_banner.png' width="320" height="100">
       </div>
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle">

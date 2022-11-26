@@ -1,8 +1,7 @@
 ---
 layout: post
-date: Jul 2022
+date: Oct 2022 
 inline: true
 ---
 
-2 papers accepted to <a href="https://2022.acmmm.org">ACM-MM 2022</a>!
-<br> 1] [Talking-Face Video Upsampling](https://arxiv.org/pdf/2208.08118.pdf)  2] [Lip-to-Speech Synthesis](https://arxiv.org/pdf/2209.00642.pdf) 
+Joined the Visual Geometry Group (VGG) at the [University of Oxford](https://www.ox.ac.uk) as a **PhD student** with [Prof. Andrew Zisserman](https://scholar.google.com/citations?user=UZ5wscMAAAAJ&hl=en)!
