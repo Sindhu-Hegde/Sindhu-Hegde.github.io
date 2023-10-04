@@ -11,6 +11,24 @@ title: News Archive
 </style>
 <table class="table table-sm table-borderless" >
 	<tr>
+	  <td style="width: 10%"><b>Sep 2023</b></td>
+	  <td> 
+	  	Our paper on  <a href="https://www.robots.ox.ac.uk/~vgg/research/gestsync/"> GestSync: Determining who is speaking without a talking head </a> accepted to BMVC 2023 (<span style="color:red">ORAL</span>)
+	  </td>
+	</tr>
+	<tr>
+	  <td style="width: 10%"><b>Jul 2023</b></td>
+	  <td> 
+	  	Participated in the <a href="https://iplab.dmi.unict.it/icvss2023/Home"> International Computer Vision Summer School (ICVSS)</a> at Sicily, Italy. Had an eincredible experience of learning from some of the most distinguished computer vision experts!
+	  </td>
+	</tr>
+	<tr>
+	  <td style="width: 10%"><b>Oct 2022</b></td>
+	  <td> 
+	  	Joined the Visual Geometry Group (VGG) at the <a href="https://www.ox.ac.uk">University of Oxford</a> as a <b>PhD student</b> with <a href="https://scholar.google.com/citations?user=UZ5wscMAAAAJ&hl=en">Prof. Andrew Zisserman</a>
+	  </td>
+	</tr>
+	<tr>
 	  <td style="width: 10%"><b>Aug 2022</b></td>
 	  <td> 
 	   Accepted the <b>PhD offer</b> from <a href="https://www.ox.ac.uk">University of Oxford</a>! Excited to join the Visual Geometry Group (VGG), with <a href="https://scholar.google.com/citations?user=UZ5wscMAAAAJ&hl=en">Prof. Andrew Zisserman</a> from October 2022!

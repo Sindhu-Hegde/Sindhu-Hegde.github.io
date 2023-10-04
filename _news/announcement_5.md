@@ -1,7 +1,8 @@
 ---
 layout: post
-date: Apr 2022
+date: May 2022
 inline: true
 ---
 
-Promoted to **Lead Data Scientist** at <a href="https://www.verisk.com">Verisk Analytics</a>
+Successfully defended MS thesis :smile: 
+<br> **Thesis:** [Exploiting Cross-Modal Redundancy for Audio-Visual Generation](https://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/1110)

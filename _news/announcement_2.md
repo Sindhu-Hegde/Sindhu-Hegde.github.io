@@ -1,7 +1,7 @@
 ---
 layout: post
-date: Oct 2022 
+date: Jul 2023 
 inline: true
 ---
 
-Joined the Visual Geometry Group (VGG) at the [University of Oxford](https://www.ox.ac.uk) as a **PhD student** with [Prof. Andrew Zisserman](https://scholar.google.com/citations?user=UZ5wscMAAAAJ&hl=en)!
+Participated in the [International Computer Vision Summer School (ICVSS)](https://iplab.dmi.unict.it/icvss2023/Home)) at Sicily, Italy. Had an eincredible experience of learning from some of the most distinguished computer vision experts!
