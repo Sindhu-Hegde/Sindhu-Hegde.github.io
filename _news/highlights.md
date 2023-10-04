@@ -13,7 +13,7 @@ title: News Archive
 	<tr>
 	  <td style="width: 10%"><b>Sep 2023</b></td>
 	  <td> 
-	  	Our paper on  <a href="https://www.robots.ox.ac.uk/~vgg/research/gestsync/"> GestSync: Determining who is speaking without a talking head </a> accepted to BMVC 2023 (<span style="color:red">ORAL</span>)
+	  	Our paper on  <a href="https://www.robots.ox.ac.uk/vgg/research/gestsync/"> GestSync: Determining who is speaking without a talking head </a> accepted to BMVC 2023 (<span style="color:red">ORAL</span>)
 	  </td>
 	</tr>
 	<tr>
