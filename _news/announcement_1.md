@@ -1,7 +1,7 @@
 ---
 layout: post
-date: Sep 2023 
+date: Apr 2025 
 inline: true
 ---
 
-Our paper on [GestSync: Determining who is speaking without a talking head](https://www.robots.ox.ac.uk/vgg/research/gestsync/) accepted to BMVC 2023 (<span style="color:red">ORAL</span>)
+Our paper on  <a href="https://arxiv.org/abs/2503.22668/"> Understanding Co-speech Gestures in-the-wild </a> is up on arXiv. <br> Links: <a href="https://www.robots.ox.ac.uk/vgg/research/jegal"> Project page </a>,  <a href="https://huggingface.co/datasets/sindhuhegde/avs-spot"> Dataset </a>

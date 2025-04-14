@@ -16,6 +16,88 @@ horizontal: true
   <tr>
     <td style="width:25%;vertical-align:middle">
       <div class="one">
+        <center>
+        <img src='/assets/img/jegal_banner.gif' width="200" height="200">
+        </center>
+      </div>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+      <a href="https://arxiv.org/abs/2503.22668">
+        <papertitle><b>Understanding Co-speech Gestures in-the-wild</b></papertitle>
+      </a>
+      <br>
+      <strong>Sindhu B Hegde</strong>*,
+      K R Prajwal*,
+      Taien Kwon,
+      Andrew Zisserman
+      <br>
+      <em>arXiv</em>, 2025 <span style="color:red"></span>
+      <br>
+      <a href="https://arxiv.org/abs/2503.22668">pdf</a> /
+      <a href="https://github.com/Sindhu-Hegde/jegal">code</a> /
+      <a href="https://www.robots.ox.ac.uk/~vgg/research/jegal/">project page</a> 
+      <a href="https://huggingface.co/datasets/sindhuhegde/avs-spot">🤗 dataset</a>
+      <p></p>
+      <p>Learn semantic co-speech gesture representations by associating gesture movements with speech and text. The learned gesture representations can be used to perform multiple downstream tasks such as cross-modal retrieval, spotting gestured words, and identifying who is speaking solely from gestures.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:25%;vertical-align:middle">
+      <div class="one">
+        <img src='/assets/img/multivsr_banner.gif' width="300" height="200">
+      </div>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+      <a href="https://ieeexplore.ieee.org/document/10890395">
+        <papertitle><b>Scaling Multilingual Visual Speech Recognition</b></papertitle>
+      </a>
+      <br>
+      K R Prajwal*,
+      <strong>Sindhu B Hegde</strong>*,
+      Andrew Zisserman
+      <br>
+      <em>ICASSP</em>, 2025 <span style="color:red"><b>(Oral Presentation)</b></span>
+      <br>
+      <a href="https://www.robots.ox.ac.uk/~vgg/publications/2025/Prajwal25/prajwal25.pdf">pdf</a> /
+      <a href="https://github.com/Sindhu-Hegde/multivsr">code</a> /
+      <a href="https://www.robots.ox.ac.uk/~vgg/research/multivsr/">project page</a> 
+      <a href="https://huggingface.co/datasets/sindhuhegde/multivsr">🤗 dataset</a>
+      <a href="https://www.youtube.com/watch?v=-vNss3I1q3M">demo video</a>
+      <p></p>
+      <p>Introduce MultiVSR - a new large-scale public dataset for multilingual visual speech recognition. MultiVSR comprises ~12,000 hours of video data paired with word-aligned transcripts from 13 languages. Also design a multi-task architecture, which can simultaneously perform two tasks: (i) language identification and (ii) visual speech recognition from silent lip videos.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:25%;vertical-align:middle">
+      <div class="one">
+        <img src='/assets/img/gestsync_banner.png' width="300" height="80">
+      </div>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+      <a href="https://papers.bmvc2023.org/0506.pdf">
+        <papertitle><b>GestSync : Determining who is speaking without a talking head</b></papertitle>
+      </a>
+      <br>
+      <strong>Sindhu B Hegde</strong>,
+      Andrew Zisserman
+      <br>
+      <em>BMVC</em>, 2023 <span style="color:red"><b>(Oral Presentation)</b></span>
+      <br>
+      <a href="https://arxiv.org/pdf/2310.05304">arXiv</a> /
+      <a href="https://github.com/Sindhu-Hegde/gestsync">code</a> /
+      <a href="https://www.robots.ox.ac.uk/~vgg/research/gestsync/">project page</a> 
+      <a href="https://huggingface.co/spaces/sindhuhegde/gestsync">🤗 demo</a>
+      <a href="https://www.youtube.com/watch?v=AAdicSpgcAg">demo video</a>
+      <p></p>
+      <p>Introduce a new synchronisation task -> Gesture-Speech Synchronisation: Identifies if the person's gestures and speech are in-sync or not. The learned representations can be used to determine who is speaking in a multi-speaker scenario.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:25%;vertical-align:middle">
+      <div class="one">
         <img src='/assets/img/acm_videosr_banner.png' width="300" height="140">
       </div>
     </td>
@@ -35,7 +117,7 @@ horizontal: true
       <a href="https://github.com/Sindhu-Hegde/video-super-resolver">code</a> /
       <a href="http://cvit.iiit.ac.in/research/projects/cvit-projects/talking-face-video-upsampling">project page</a> 
       <p></p>
-      <p>Super-resolve extremely low-resolution videos (eg., 8x8 pixels) to obtain realistic, high-resolution outputs (256x256 pixels). Upsampled the videos at a scale-factor of 32x for the first time!.</p>
+      <p>Super-resolve extremely low-resolution videos (eg., 8x8 pixels) to obtain realistic, high-resolution outputs (256x256 pixels). Upsamples the videos at a scale-factor of 32x for the first time!.</p>
     </td>
   </tr>
 
@@ -152,7 +234,9 @@ horizontal: true
   <tr>
     <td style="width:25%;vertical-align:middle">
       <div class="one">
-        <img src='/assets/img/icprdemo_banner.png' width="318" height="160" style="vertical-align:middle">
+        <center>
+        <img src='/assets/img/icprdemo_banner.png' width="270" height="160" style="vertical-align:middle">
+        </center>
       </div>
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle">

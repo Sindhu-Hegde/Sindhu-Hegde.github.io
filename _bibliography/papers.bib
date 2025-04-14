@@ -3,6 +3,32 @@
 
 @string{aps = {American Physical Society,}}
 
+@article{JEGAL_2025_arXiv,
+  abbr={arXiv},
+  author={Hegde, Sindhu and Prajwal, KR and Zisserman, Andrew},
+  title={Understanding Co-speech Gestures in-the-wild},
+  journal={arXiv},
+  year={2025},
+  selected={true},
+  pdf={https://arxiv.org/abs/2503.22668},
+  website={https://www.robots.ox.ac.uk/vgg/research/jegal/},
+  code={https://github.com/Sindhu-Hegde/jegal},
+  abstract={Co-speech gestures play a vital role in non-verbal communication. In this paper, we introduce a new framework for co-speech gesture understanding in the wild. Specifically, we propose three new tasks and benchmarks to evaluate a model's capability to comprehend gesture-text-speech associations: (i) gesture-based retrieval, (ii) gestured word spotting, and (iii) active speaker detection using gestures. We present a new approach that learns a tri-modal speech-text-video-gesture representation to solve these tasks. By leveraging a combination of global phrase contrastive loss and local gesture-word coupling loss, we demonstrate that a strong gesture representation can be learned in a weakly supervised manner from videos in the wild. Our learned representations outperform previous methods, including large vision-language models (VLMs), across all three tasks. Further analysis reveals that speech and text modalities capture distinct gesture-related signals, underscoring the advantages of learning a shared tri-modal embedding space. The dataset, model, and code are available at: https://www.robots.ox.ac.uk/~vgg/research/jegal/.}
+}
+
+@InProceedings{MultiVSR_2025_ICASSP,
+  abbr={ICASSP},
+  author={Prajwal, KR and Hegde, Sindhu and Zisserman, Andrew},
+  title={Scaling Multilingual Visual Speech Recognition},
+  booktitle={International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2025},
+  selected={true},
+  pdf={https://www.robots.ox.ac.uk/vgg/publications/2025/Prajwal25/prajwal25.pdf},
+  website={https://www.robots.ox.ac.uk/vgg/research/multivsr/},
+  code={https://github.com/Sindhu-Hegde/multivsr},
+  abstract={Visual Speech Recognition (lip-reading) has witnessed tremendous improvements, reaching word error rates as low as 12.8 WER in English. However, the performance in other languages is lagging far behind, due to the lack of labeled multilingual video data. In this work, we reduce the performance gap with the help of three key advances: (i) introducing the largest multilingual lip-reading dataset to date, (ii) proposing a single multi-task architecture that can perform two tasks simultaneously: identify the language and transcribe the utterance, and (iii) jointly training this architecture on all the languages together, resulting in large WER improvements as opposed to training monolingual models separately. We achieve state-of-the-art performance in both visual language identification and multilingual lip-reading tasks. Moreover, our pipeline uses zero manual annotations, as all the training transcriptions are obtained using a pre-trained ASR model. We also show that our multilingual model can be readily fine-tuned for new low-resource languages on which models trained from scratch do not converge. Our data, code, and models are available at: www.robots.ox.ac.uk/∼vgg/research/multivsr.}
+}
+
 @InProceedings{GestSync_2023_BMVC,
   abbr={BMVC},
   author={Hegde, Sindhu and Zisserman, Andrew},
@@ -16,13 +42,23 @@
   abstract={In this paper we introduce a new synchronisation task, Gesture-Sync: determining if a person's gestures are correlated with their speech or not. In comparison to Lip-Sync, Gesture-Sync is far more challenging as there is a far looser relationship between the voice and body movement than there is between voice and lip motion. We introduce a dual-encoder model for this task, and compare a number of input representations including RGB frames, keypoint images, and keypoint vectors, assessing their performance and advantages. We show that the model can be trained using self-supervised learning alone, and evaluate its performance on the LRS3 dataset. Finally, we demonstrate applications of Gesture-Sync for audio-visual synchronisation, and in determining who is the speaker in a crowd, without seeing their faces.}
 }
 
+@InProceedings{L2S_2023_ACMMM,
+  abbr={ACM-MM},
+  author={Hegde, Sindhu and Mukhopadhyay, Rudrabha and Jawahar, CV and Namboodiri, Vinay P},
+  title={Towards Accurate Lip-to-Speech Synthesis in-the-Wild},
+  booktitle={Proceedings of the 31th ACM International Conference on Multimedia (MM'23)},
+  year={2023},
+  pdf={https://arxiv.org/pdf/2403.01087},
+  abstract={In this paper, we introduce a novel approach to address the task of synthesizing speech from silent videos of any in-the-wild speaker solely based on lip movements. The traditional approach of directly generating speech from lip videos faces the challenge of not being able to learn a robust language model from speech alone, resulting in unsatisfactory outcomes. To overcome this issue, we propose incorporating noisy text supervision using a state-of-the-art lipto-text network that instills language information into our model. The noisy text is generated using a pre-trained lip-to-text model, enabling our approach to work without text annotations during inference. We design a visual text-to-speech network that utilizes the visual stream to generate accurate speech, which is in-sync with the silent input video. We perform extensive experiments and ablation studies, demonstrating our approach's superiority over the current state-of-the-art methods on various benchmark datasets. Further, we demonstrate an essential practical application of our method in assistive technology by generating speech for an ALS patient who has lost the voice but can make mouth movements.}
+}
+
+
 @InProceedings{ExtremeSR_2022_ACMMM,
   abbr={ACM-MM},
   author={Hegde, Sindhu and Mukhopadhyay, Rudrabha and Namboodiri, Vinay P and Jawahar, CV},
   title={Extreme-scale Talking-Face Video Upsampling with Audio-Visual Priors},
   booktitle={Proceedings of the 30th ACM International Conference on Multimedia (MM'22)},
   year={2022},
-  selected={true},
   pdf={https://arxiv.org/pdf/2208.08118.pdf},
   website={http://cvit.iiit.ac.in/research/projects/cvit-projects/talking-face-video-upsampling},
   code={https://github.com/Sindhu-Hegde/video-super-resolver},
@@ -35,7 +71,6 @@
   title={Lip-to-Speech Synthesis for Arbitrary Speakers in the Wild},
   booktitle={Proceedings of the 30th ACM International Conference on Multimedia (MM'22)},
   year={2022},
-  selected={true},
   pdf={https://arxiv.org/pdf/2209.00642.pdf},
   website={http://cvit.iiit.ac.in/research/projects/cvit-projects/lip-to-speech-synthesis},
   code={https://github.com/Sindhu-Hegde/lip2speech},

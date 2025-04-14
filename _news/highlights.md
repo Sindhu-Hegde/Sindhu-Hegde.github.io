@@ -11,6 +11,18 @@ title: News Archive
 </style>
 <table class="table table-sm table-borderless" >
 	<tr>
+	  <td style="width: 10%"><b>Apr 2025</b></td>
+	  <td> 
+	  	Our paper on  <a href="https://www.robots.ox.ac.uk/~vgg/research/jegal/"> Understanding Co-speech Gestures in-the-wild </a> is up on arXiv
+	  </td>
+	</tr>
+	<tr>
+	  <td style="width: 10%"><b>Jan 2025</b></td>
+	  <td> 
+	  	Our paper on  <a href="https://www.robots.ox.ac.uk/vgg/research/multivsr/"> Scaling Multilingual Visual Speech Recognition </a> accepted to ICASSP 2025 (<span style="color:red">ORAL</span>)
+	  </td>
+	</tr>
+	<tr>
 	  <td style="width: 10%"><b>Sep 2023</b></td>
 	  <td> 
 	  	Our paper on  <a href="https://www.robots.ox.ac.uk/vgg/research/gestsync/"> GestSync: Determining who is speaking without a talking head </a> accepted to BMVC 2023 (<span style="color:red">ORAL</span>)

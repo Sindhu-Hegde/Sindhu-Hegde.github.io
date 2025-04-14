@@ -1,7 +1,7 @@
 ---
 layout: post
-date: Jul 2023 
+date: Jan 2025 
 inline: true
 ---
 
-Participated in the [International Computer Vision Summer School (ICVSS)](https://iplab.dmi.unict.it/icvss2023/Home)) at Sicily, Italy. Had an eincredible experience of learning from some of the most distinguished computer vision experts!
+Our paper on  <a href="https://www.robots.ox.ac.uk/vgg/publications/2025/Prajwal25/prajwal25.pdf"> Scaling Multilingual Visual Speech Recognition </a> accepted to ICASSP 2025 (<span style="color:red">ORAL</span>). <br> Links: <a href="https://www.robots.ox.ac.uk/vgg/research/multivsr"> Project page </a>,  <a href="https://huggingface.co/datasets/sindhuhegde/multivsr"> Dataset </a>

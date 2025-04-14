@@ -1,8 +1,7 @@
 ---
 layout: post
-date: May 2022
+date: Oct 2022
 inline: true
 ---
 
-Successfully defended MS thesis :smile: 
-<br> **Thesis:** [Exploiting Cross-Modal Redundancy for Audio-Visual Generation](https://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/1110)
+Joined the Visual Geometry Group (VGG) at the [University of Oxford](https://www.ox.ac.uk) as a **PhD student** with [Prof. Andrew Zisserman](https://scholar.google.com/citations?user=UZ5wscMAAAAJ&hl=en)
