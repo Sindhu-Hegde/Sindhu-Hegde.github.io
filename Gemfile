@@ -16,5 +16,5 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
-    gem 'unicode_utils', '1.3.0'
+    gem 'unicode_utils'
 end
