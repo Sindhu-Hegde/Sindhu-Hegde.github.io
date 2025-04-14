@@ -13,19 +13,19 @@ title: News Archive
 	<tr>
 	  <td style="width: 10%"><b>Apr 2025</b></td>
 	  <td> 
-	  	Our paper on  <a href="https://www.robots.ox.ac.uk/~vgg/research/jegal/"> Understanding Co-speech Gestures in-the-wild </a> is up on arXiv
+	  	Our paper on  <a href="https://www.robots.ox.ac.uk/~vgg/research/jegal/"> Understanding Co-speech Gestures in-the-wild </a> is up on arXiv. <br> Links: <a href="https://www.robots.ox.ac.uk/vgg/research/jegal"> Project page </a>,  <a href="https://huggingface.co/datasets/sindhuhegde/avs-spot"> Dataset </a>
 	  </td>
 	</tr>
 	<tr>
 	  <td style="width: 10%"><b>Jan 2025</b></td>
 	  <td> 
-	  	Our paper on  <a href="https://www.robots.ox.ac.uk/vgg/research/multivsr/"> Scaling Multilingual Visual Speech Recognition </a> accepted to ICASSP 2025 (<span style="color:red">ORAL</span>)
+	  	Our paper on  <a href="https://www.robots.ox.ac.uk/vgg/research/multivsr/"> Scaling Multilingual Visual Speech Recognition </a> accepted to ICASSP 2025 (<span style="color:red">ORAL</span>). <br> Links: <a href="https://www.robots.ox.ac.uk/vgg/research/multivsr"> Project page </a>,  <a href="https://huggingface.co/datasets/sindhuhegde/multivsr"> Dataset </a>
 	  </td>
 	</tr>
 	<tr>
 	  <td style="width: 10%"><b>Sep 2023</b></td>
 	  <td> 
-	  	Our paper on  <a href="https://www.robots.ox.ac.uk/vgg/research/gestsync/"> GestSync: Determining who is speaking without a talking head </a> accepted to BMVC 2023 (<span style="color:red">ORAL</span>)
+	  	Our paper on  <a href="https://www.robots.ox.ac.uk/vgg/research/gestsync/"> GestSync: Determining who is speaking without a talking head </a> accepted to BMVC 2023 (<span style="color:red">ORAL</span>).  <br> Links: <a href="https://www.robots.ox.ac.uk/vgg/research/gestsync"> Project page </a>,  <a href="https://huggingface.co/spaces/sindhuhegde/gestsync"> Demo </a>
 	  </td>
 	</tr>
 	<tr>
