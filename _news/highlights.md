@@ -13,7 +13,7 @@ title: News Archive
 	<tr>
 	  <td style="width: 10%"><b>Apr 2025</b></td>
 	  <td> 
-	  	Our paper on  <a href="https://www.robots.ox.ac.uk/~vgg/research/jegal/"> Understanding Co-speech Gestures in-the-wild </a> is up on arXiv. <br> Links: <a href="https://www.robots.ox.ac.uk/vgg/research/jegal"> Project page </a>,  <a href="https://huggingface.co/datasets/sindhuhegde/avs-spot"> Dataset </a>
+	  	Our paper on  <a href="https://www.robots.ox.ac.uk/~vgg/research/jegal/"> Understanding Co-speech Gestures in-the-wild </a> accepted to ICCV 2025 (<span style="color:red">ORAL</span>). <br> Links: <a href="https://www.robots.ox.ac.uk/vgg/research/jegal"> Project page </a>,  <a href="https://huggingface.co/datasets/sindhuhegde/avs-spot"> Dataset </a>
 	  </td>
 	</tr>
 	<tr>

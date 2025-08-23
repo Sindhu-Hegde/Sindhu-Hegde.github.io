@@ -31,11 +31,11 @@ horizontal: true
       Taien Kwon,
       Andrew Zisserman
       <br>
-      <em>arXiv</em>, 2025 <span style="color:red"></span>
+      <em>ICCV</em>, 2025 <span style="color:red"><b>(Oral Presentation)</b></span>
       <br>
       <a href="https://arxiv.org/abs/2503.22668">pdf</a> /
       <a href="https://github.com/Sindhu-Hegde/jegal">code</a> /
-      <a href="https://www.robots.ox.ac.uk/~vgg/research/jegal/">project page</a> 
+      <a href="https://www.robots.ox.ac.uk/~vgg/research/jegal/">project page</a> /
       <a href="https://huggingface.co/datasets/sindhuhegde/avs-spot">🤗 dataset</a>
       <p></p>
       <p>Learn semantic co-speech gesture representations by associating gesture movements with speech and text. The learned gesture representations can be used to perform multiple downstream tasks such as cross-modal retrieval, spotting gestured words, and identifying who is speaking solely from gestures.</p>
@@ -61,8 +61,8 @@ horizontal: true
       <br>
       <a href="https://www.robots.ox.ac.uk/~vgg/publications/2025/Prajwal25/prajwal25.pdf">pdf</a> /
       <a href="https://github.com/Sindhu-Hegde/multivsr">code</a> /
-      <a href="https://www.robots.ox.ac.uk/~vgg/research/multivsr/">project page</a> 
-      <a href="https://huggingface.co/datasets/sindhuhegde/multivsr">🤗 dataset</a>
+      <a href="https://www.robots.ox.ac.uk/~vgg/research/multivsr/">project page</a> /
+      <a href="https://huggingface.co/datasets/sindhuhegde/multivsr">🤗 dataset</a> /
       <a href="https://www.youtube.com/watch?v=-vNss3I1q3M">demo video</a>
       <p></p>
       <p>Introduce MultiVSR - a new large-scale public dataset for multilingual visual speech recognition. MultiVSR comprises ~12,000 hours of video data paired with word-aligned transcripts from 13 languages. Also design a multi-task architecture, which can simultaneously perform two tasks: (i) language identification and (ii) visual speech recognition from silent lip videos.</p>
@@ -87,8 +87,8 @@ horizontal: true
       <br>
       <a href="https://arxiv.org/pdf/2310.05304">arXiv</a> /
       <a href="https://github.com/Sindhu-Hegde/gestsync">code</a> /
-      <a href="https://www.robots.ox.ac.uk/~vgg/research/gestsync/">project page</a> 
-      <a href="https://huggingface.co/spaces/sindhuhegde/gestsync">🤗 demo</a>
+      <a href="https://www.robots.ox.ac.uk/~vgg/research/gestsync/">project page</a> / 
+      <a href="https://huggingface.co/spaces/sindhuhegde/gestsync">🤗 demo</a> /
       <a href="https://www.youtube.com/watch?v=AAdicSpgcAg">demo video</a>
       <p></p>
       <p>Introduce a new synchronisation task -> Gesture-Speech Synchronisation: Identifies if the person's gestures and speech are in-sync or not. The learned representations can be used to determine who is speaking in a multi-speaker scenario.</p>
