@@ -31,7 +31,7 @@ title: News Archive
 	<tr>
 	  <td style="width: 10%"><b>Jul 2023</b></td>
 	  <td> 
-	  	Participated in the <a href="https://iplab.dmi.unict.it/icvss2023/Home"> International Computer Vision Summer School (ICVSS)</a> at Sicily, Italy. Had an eincredible experience of learning from some of the most distinguished computer vision experts!
+	  	Participated in the <a href="https://iplab.dmi.unict.it/icvss2023/Home"> International Computer Vision Summer School (ICVSS)</a> at Sicily, Italy. Had an incredible experience of learning from some of the most distinguished computer vision experts!
 	  </td>
 	</tr>
 	<tr>
