@@ -11,7 +11,13 @@ title: News Archive
 </style>
 <table class="table table-sm table-borderless" >
 	<tr>
-	  <td style="width: 10%"><b>Apr 2025</b></td>
+	  <td style="width: 10%"><b>Nov 2025</b></td>
+	  <td> 
+	  	I am honoured to have been awarded the <a href="https://research.google/programs-and-events/phd-fellowship/recipients/"> 2025 Google PhD Fellowship </a> in Machine Perception.
+	  </td>
+	</tr>
+	<tr>
+	  <td style="width: 10%"><b>Jul 2025</b></td>
 	  <td> 
 	  	Our paper on  <a href="https://www.robots.ox.ac.uk/~vgg/research/jegal/"> Understanding Co-speech Gestures in-the-wild </a> accepted to ICCV 2025 (<span style="color:red">ORAL</span>). <br> Links: <a href="https://www.robots.ox.ac.uk/vgg/research/jegal"> Project page </a>,  <a href="https://huggingface.co/datasets/sindhuhegde/avs-spot"> Dataset </a>
 	  </td>

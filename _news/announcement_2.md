@@ -1,7 +1,7 @@
 ---
 layout: post
-date: Apr 2025 
+date: Jul 2025 
 inline: true
 ---
 
-Our paper on  <a href="https://arxiv.org/abs/2503.22668/"> Understanding Co-speech Gestures in-the-wild </a> is up on <b>arXiv</b>. <br> Links: <a href="https://www.robots.ox.ac.uk/vgg/research/jegal"> Project page </a>,  <a href="https://huggingface.co/datasets/sindhuhegde/avs-spot"> Dataset </a>
+<a href="https://arxiv.org/abs/2503.22668"> JEGAL </a> has been accepted to <b>ICCV</b> 2025 (<span style="color:red">ORAL</span>). See you in Hawaii 🏝️⛱️ 🌊
