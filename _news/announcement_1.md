@@ -1,7 +1,7 @@
 ---
 layout: post
-date: Nov 2025 
+date: June 2026
 inline: true
 ---
 
-I am honoured to have been awarded the <a href="https://research.google/programs-and-events/phd-fellowship/recipients/"> 2025 Google PhD Fellowship </a> in Machine Perception.
+Our paper on  <a href="https://arxiv.org/pdf/2605.31589"> Recognizing Co-speech Gestures in-the-Wild </a> accepted to ECCV 2026. See you in Malmö 🇸🇪🌆🏝️⛱️ <br> Links: <a href="https://www.robots.ox.ac.uk/vgg/research/grw"> Project page </a>,  <a href="https://huggingface.co/datasets/sindhuhegde/grw"> Dataset </a>. 

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: Apr 2025 
+date: Nov 2025 
 inline: true
 ---
 
-Our paper on  <a href="https://arxiv.org/abs/2503.22668/"> Understanding Co-speech Gestures in-the-wild </a> is up on <b>arXiv</b>. <br> Links: <a href="https://www.robots.ox.ac.uk/vgg/research/jegal"> Project page</a>, <a href="https://huggingface.co/datasets/sindhuhegde/avs-spot"> Dataset </a>
+I am honoured to have been awarded the <a href="https://research.google/programs-and-events/phd-fellowship/recipients/"> 2025 Google PhD Fellowship </a> in Machine Perception.

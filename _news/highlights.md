@@ -11,9 +11,21 @@ title: News Archive
 </style>
 <table class="table table-sm table-borderless" >
 	<tr>
+	  <td style="width: 10%"><b>June 2026</b></td>
+	  <td> 
+	  	Our paper on  <a href="https://arxiv.org/pdf/2605.31589"> Recognizing Co-speech Gestures in-the-Wild </a> accepted to ECCV 2026. <br> Links: <a href="https://www.robots.ox.ac.uk/vgg/research/grw"> Project page </a>,  <a href="https://huggingface.co/datasets/sindhuhegde/grw"> Dataset </a>. 
+	  </td>
+	</tr>
+	<tr>
+	  <td style="width: 10%"><b>Apr 2026</b></td>
+	  <td> 
+	  	Got an amazing opportunity to participate in the <b>ELLIS Computer Vision Event in Bulgaria</b>, interacting with top researchers and experts in the field. 
+	  </td>
+	</tr>
+	<tr>
 	  <td style="width: 10%"><b>Nov 2025</b></td>
 	  <td> 
-	  	I am honoured to have been awarded the <a href="https://research.google/programs-and-events/phd-fellowship/recipients/"> 2025 Google PhD Fellowship </a> in Machine Perception.
+	  	I am honoured to have been awarded the <a href="https://research.google/programs-and-events/phd-fellowship/recipients/"> 2025 Google PhD Fellowship </a> in Machine Perception. <br> <a href="https://eng.ox.ac.uk/news/oxford-engineering-student-awarded-prestigious-google-phd-fellowships">VGG News</a> | <a href="https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellowship-program-2025/">Fellowship announcement </a> 
 	  </td>
 	</tr>
 	<tr>
